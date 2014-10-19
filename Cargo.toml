@@ -21,7 +21,7 @@ git = "https://github.com/AngryLawyer/rust-sdl2"
 
 [dependencies.event]
 
-git = "https://github.com/pistondevelopers/event"
+git = "https://github.com/bpicolo/event"
 
 [dependencies.shader_version]
 
